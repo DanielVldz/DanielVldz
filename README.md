@@ -1,6 +1,6 @@
-### ¡Hola! 👋
+# ¡Hola! 👋
 
-Soy Daniel Valdez, en el camino de convertirme en un desarrollador de software apasionado por el desarrollo web y los videojuegos ⚡
+## Soy Daniel Valdez, en el camino de convertirme en un desarrollador de software apasionado por el desarrollo web y los videojuegos ⚡
 
 ## 🚀 Mis habilidades
 
@@ -24,13 +24,13 @@ Soy Daniel Valdez, en el camino de convertirme en un desarrollador de software a
  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
  
-# 🌱 Actualmente estoy aprendiendo
+## 🌱 Actualmente estoy aprendiendo
 
 
 ## 💬 Contáctame
 
 - [Correo electrónico](mailto:danielrvp27@gmail.com) 
-- [LinkedIn](www.linkedin.com/in/daniel-rodolfo-valdez-padilla-49585626b)
+- [LinkedIn](https://www.linkedin.com/in/daniel-rodolfo-valdez-padilla-49585626b)
   
 
 ¡Gracias por visitar mi perfil! 😊
