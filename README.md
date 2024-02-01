@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-## Soy Daniel Valdez, en el camino de convertirme en un desarrollador de software apasionado por el desarrollo web y los videojuegos ⚡
+## Soy Daniel Valdez, en la ruta de mejorar como desarrollador de software apasionado por el desarrollo web y los videojuegos ⚡
 
 ## 🚀 Mis habilidades
 
