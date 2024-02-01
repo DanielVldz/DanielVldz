@@ -15,29 +15,25 @@ Soy Daniel Valdez, en el camino de convertirme en un desarrollador de software a
 ### 🛠️ Frameworks y Librerías
 
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
+  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
   
-## 🌱 Actualmente estoy aprendiendo
+
+### 💻 Software y Herramientas
+ ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+ ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+ 
+# 🌱 Actualmente estoy aprendiendo
 
 
 ## 💬 Contáctame
 
-- [danielrvp27@gmail.com]
+- [Correo electrónico](mailto:danielrvp27@gmail.com) 
+- [LinkedIn](www.linkedin.com/in/daniel-rodolfo-valdez-padilla-49585626b)
+  
+
+¡Gracias por visitar mi perfil! 😊
 
 
-<!--
-**DanielVldz/DanielVldz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
